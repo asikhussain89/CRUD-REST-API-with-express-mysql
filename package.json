@@ -1,0 +1,19 @@
+{
+  "name": "crud-rest-api-with-express-mysql-master",
+  "version": "1.0.0",
+  "description": "Sample CRUD operation program with MySQL Database using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asikhussain89/CRUD-REST-API-with-express-mysql.git"
+  },
+  "author": "Asik Hussain J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asikhussain89/CRUD-REST-API-with-express-mysql/issues"
+  },
+  "homepage": "https://github.com/asikhussain89/CRUD-REST-API-with-express-mysql#readme"
+}
